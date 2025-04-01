@@ -1,1 +1,1 @@
-# themes-arch-white
+Olá, tema do KDE PLASMA. O estilo do Plasma é este: [link](https://store.kde.org/p/1085371), os ícones são estes: [link](https://store.kde.org/p/1405756/), e o wallpaper é este: [link](https://www.deviantart.com/bruoneightwo/art/Wallpaper-Arch-Linux-608164237).
